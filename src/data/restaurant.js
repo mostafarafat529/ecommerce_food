@@ -15,8 +15,8 @@ export const RESTAURANT_CONFIG = {
   tagline: 'كل لقمة ليها حكاية',
 
   // بيانات التواصل والواتساب (ضع رقم الواتساب بصيغة دولية بدون علامة +)
-  whatsappNumber: '201012345678',
-  phone: '01012345678',
+  whatsappNumber: '201096078019',
+  phone: '01096078019',
   hotline: '19842',
   email: 'orders@lokmetmazag.eg',
 
